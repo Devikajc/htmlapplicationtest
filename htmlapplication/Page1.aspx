@@ -13,6 +13,9 @@
             <p id="pid" name="para">Separating paragraphs with blank lines is easiest for readers to scan, but
   they can also be separated by indenting their first lines. This is often used
   to take up less space, such as to save paper in print.</p>
+
+            <p>NEW PARAGRAPH AND EXAMPLES</p>
+            <h1>HTML</h1>
            
             <h2>Attributes</h2>
              <h3>Colours</h3>
